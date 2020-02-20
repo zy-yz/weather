@@ -12,7 +12,7 @@ public class QuartzConfiguration {
 
 
     //更新频率
-    private static final int TIME = 2;
+    private static final int TIME = 1800;
 
     //JobDetail
     @Bean
